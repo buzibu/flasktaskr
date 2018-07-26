@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 flask = "*"
+flask-wtf = "==0.12"
+flask-sqlalchemy = "==2.1"
 
 [dev-packages]
 
